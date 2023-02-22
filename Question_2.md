@@ -9,3 +9,8 @@ Upon pressing the login button, the code should validate the inputs, and if the 
 it should show a **toast** message indicating **successful login**. However, 
 
 if the validation fails, the code should show a **toast message** stating the **errors**.
+
+## Note:
+- Use Kotlin programming language.
+- Apply basic design for Login UI
+- Adhere to coding standards.
